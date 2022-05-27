@@ -3,14 +3,7 @@
 FAIRifying research data
 ==============
 
-[![Create a Slack Account with us][create_slack_svg]][slack_heroku_invite]
 
-This repository shows how to create a lesson using
-[The Carpentries lesson template][styles],
-and is itself an example of the use of that template.
-Please see <https://carpentries.github.io/lesson-example/>
-for a rendered version of this material,
-including detailed instructions on design, setup, and formatting.
 
 ## Quick Instructions
 
