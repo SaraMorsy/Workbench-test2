@@ -1,6 +1,6 @@
 [![Website Check Status](https://github.com/carpentries/lesson-example/workflows/Website/badge.svg)](https://github.com/carpentries/lesson-example/actions/workflows/website.yml?query=workflow%3AWebsite)
 
-lesson-example
+FAIRifying research data
 ==============
 
 [![Create a Slack Account with us][create_slack_svg]][slack_heroku_invite]
